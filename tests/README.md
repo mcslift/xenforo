@@ -1,25 +1,29 @@
-# Folder **tests/**
+# TürkGadgets - Teknoloji ve Elektronik Dünyasına Açılan Kapı 🚀  
 
-* Folder with all the tests used to test the "../SETUP_TEMPLATE.sh" script.
+**TürkGadgets**, teknoloji ve elektronik meraklılarına hitap eden kapsamlı bir platformdur. Güncel haberler, incelemeler, donanım rehberleri ve yazılım dünyasındaki en son gelişmeleri paylaşıyoruz.  
 
-## Files
+## 🌍 Web Sitelerimiz  
 
-### The *tests/shunit2*
+📌 **Blog Sitemiz**: En yeni teknoloji haberleri, incelemeler ve rehberler için [TürkGadgets Blog](https://turkgadgets.com) adresimizi ziyaret edin.  
 
-* Framework used for the unit tests more info can be found in the [shunit2's GitHub repository](https://github.com/kward/shunit2).
+📌 **Forum Sitemiz**: Teknoloji severler ve geliştiriciler için interaktif bir topluluk! Sorularınızı sorun, deneyimlerinizi paylaşın: [TürkGadgets Forum](https://forum.turkgadgets.com).  
 
-### The *tests/argument_help_parser.sh*
+## 📌 İçeriklerimiz  
 
-* Test suite for testing the help flag (--help).
+✅ **Teknoloji Haberleri** – En güncel gelişmeleri kaçırmayın.  
+✅ **Elektronik Projeler** – Arduino, Raspberry Pi, Lattepanda Sigma gibi donanımlarla projeler geliştirin.  
+✅ **Yazılım Rehberleri** – Python, C++, Linux sunucu yönetimi gibi konularda kapsamlı eğitimler.  
+✅ **SEO & Web Performansı** – Nginx, CyberPanel ve Cloudflare optimizasyonları.  
+✅ **Soru-Cevap Forumumuz** – Bilgi paylaşımı yapabileceğiniz aktif bir topluluk.  
 
-### The *tests/custom_data_test.sh*
+## 🔗 Bize Katılın!  
 
-* Test suite for testing the modified custom data, after executing the SETUP_TEMPLATE script.
+🖥️ **Web Sitemiz**: [https://turkgadgets.com](https://turkgadgets.com)  
+💬 **Forumumuz**: [https://forum.turkgadgets.com](https://forum.turkgadgets.com)  
+📷 **Sosyal Medya Hesaplarımız**: *(Opsiyonel, eğer varsa buraya ekleyebilirsiniz)*  
 
-### The *tests/project_scaffolding_test.sh*
+Bu depo, **teknoloji ve yazılım dünyasına katkı sağlamak isteyen herkes için açık kaynaklı bir bilgi paylaşım alanıdır.**  
 
-* Test suite for testing the project scaffolding after executing the SETUP_TEMPLATE script.
+---
 
-### The *tests/TESTS_RUNNER.sh*
-
-* Main test script that will call all the individual unitary tests. Exit code 1 means an error in one or more tests was found, otherwise, the exit code will be 0.
+📢 **Siz de aramıza katılın, bilgi paylaşımına katkıda bulunun!**
